@@ -5,10 +5,10 @@ This Web Extension removes ads and replaces images with cat images so you stay a
 ## Installation
 
 ### Chrome
-1. Copy this repository or download just the AdBlock folder.
+1. Copy this repository or download just the Catover folder.
 2. Go to Extensions > Manage Extensions.
 3. Enable Developer mode and then press the newly appeared "Load unpacked" button.
-4. Choose the AdBlock folder.
+4. Choose the Catover folder.
 5. You're good to go!
 
 ### Firefox
